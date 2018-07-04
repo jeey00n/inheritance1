@@ -1,1 +1,1 @@
-# inheritance1
+# polymorphism
